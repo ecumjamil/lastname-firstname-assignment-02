@@ -21,7 +21,7 @@ function sumOfNumbers(arrayOfNumbers) {
   } 
   return sumOfNumbers;
 }
-let totalSum = sumOfNumbers =  sumOfNumbers(arrayOfNumbers);
+let totalSum =  sumOfNumbers(arrayOfNumbers);
 console.log(totalSum);
 
 assignment.sumOfNumbers = sumOfNumbers;
